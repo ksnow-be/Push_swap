@@ -8,7 +8,7 @@ the vis process of it by pressing RIGHT ARROW key. If you want make it quicker, 
 
 Make sure than you have installed SDL2 lib and command "make" is already done.
 
-In other case, you know waht to do.
+In other case, you know what to do.
 
 Example:
 ![alt text](https://raw.github.com/ksnow-be/Push_swap/master/SDL.png)
