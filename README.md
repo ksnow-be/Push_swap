@@ -9,4 +9,5 @@ the vis process of it by pressing RIGHT ARROW key. If you want make it quicker, 
 Make sure than you have installed SDL2 lib and command "make" is already done.
 
 In other case, you know what to do.
+
 ![](https://media.giphy.com/media/pcJQJibaViuyx8EyQV/giphy.gif)
