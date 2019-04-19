@@ -12,3 +12,4 @@ In other case, you know what to do.
 
 Example:
 ![alt text](https://raw.github.com/ksnow-be/Push_swap/master/SDL.png)
+![](https://media.giphy.com/media/pcJQJibaViuyx8EyQV/giphy.gif)
