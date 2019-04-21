@@ -1,10 +1,12 @@
 # PUSH_SWAP
 
 Another school project.
-The main goal of it is make one of two stacks sorted by using the second one.
+
+The goal of this project is to sort stack A using stack B.
 
 
-**(macOS is only supported)**
+The only difference from the known sorting methods is the presence of **special rules** of the algorithm and the **speed of execution.**
+
 
 [`push_swap.en.pdf`]
 
