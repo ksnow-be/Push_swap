@@ -29,6 +29,8 @@ Where:
 
 VAL1 - start point of the randomizer
 VAL2 - finish point of the randomizer
+
+Please notice that the maximum amount of params can't be greather than 1000.
 ```
 ## Conclusion
 
