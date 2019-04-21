@@ -34,7 +34,7 @@ Please notice that the maximum amount of params can't be greather than 1000.
 ```
 ## Conclusion
 
-So, this manual describes the fastest and most pleasant way to observe the execition of the algorithm.
+So, this manual describes the fastest and most pleasant way to observe the execution of the algorithm.
 If you are not a **42 student**, I think you are not interested in the details of the `push_swap` and `checker` programms.
 If you are an **employee and consider this project as part of my resume** - all the details of the project I will explain to you at the meeting.
 
