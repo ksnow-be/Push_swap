@@ -12,8 +12,8 @@ The only difference from the known sorting methods is the presence of **special 
 
 `./lem-in < [map]`
 
-**Project wa created on [`MacOs`], so all Makefile's rules will be runned well inly on this OS.**
-**If you use any of Linux distro's, you probably will face lot's of link problems. Sorry, eh!  🇨🇦 
+**Project wa created on [`MacOs`], so all Makefile's rules will be runned well inly on this OS. 
+If you use any of Linux distro's, you probably will face lot's of link problems. Sorry, eh!  🇨🇦 **
 
 ```
 git clone --recurse-submodules <repository url>
