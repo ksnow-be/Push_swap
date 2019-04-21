@@ -8,7 +8,7 @@ The goal of this project is to sort stack A using stack B.
 The only difference from the known sorting methods is the presence of **special rules** of the algorithm and the **speed of execution.**
 
 
-- ![#f03c15] CA`#f03c15`
+<span style="color:orange;">Word up</span>
 
 `./lem-in < [map]`
 
