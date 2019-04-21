@@ -18,9 +18,9 @@ brew install sdl2
 ```
 git clone https://github.com/ksnow-be/Push_swap.git; cd Push_swap; make;
 ```
+## Use
 
-If you are not a student of 42 , just run "./start.sh 1 100" (from 1 to 100 randoms), where you can handle 
-the vis process of it by pressing RIGHT ARROW key. If you want make it quicker, just press LEFT ARROW key.
+Then, to execute the vizualization of the process run this magic [bash script](start.sh).
 
 Make sure than you have installed SDL2 lib and command "make" is already done.
 
