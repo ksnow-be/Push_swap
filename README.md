@@ -21,6 +21,12 @@ git clone https://github.com/ksnow-be/Push_swap.git; cd Push_swap; make;
 ## Use
 
 Then, to execute the vizualization of the process run this magic [bash script](start.sh).
+```
+./start.sh <VAL1> <VAL2>
+Where:
+VAL1 - start point of the randomizer
+VAL2 - finish point of the randomizer
+```
 
 Make sure than you have installed SDL2 lib and command "make" is already done.
 
