@@ -7,7 +7,7 @@ The goal of this project is to sort stack A using stack B.
 
 The only difference from the known sorting methods is the presence of **special rules** of the algorithm and the **speed of execution.**
 
-**Project was created on the [`MacOs`], so all Makefile's rules will be runned well inly on this OS. 
+**Project was created on the [`MacOs`], so all Makefile's rules will be runned well only on this OS. 
 If you use any of Linux distro's, you probably will face lot's of link problems. Sorry, eh!**  🇨🇦 
 
 Make sure you've installed SDL.h
