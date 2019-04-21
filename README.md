@@ -30,9 +30,12 @@ Where:
 VAL1 - start point of the randomizer
 VAL2 - finish point of the randomizer
 ```
+## Conclusion
 
-Make sure than you have installed SDL2 lib and command "make" is already done.
+So, this manual describes the fastest and most pleasant way to observe the execition of the algorithm.
+If you are not a **42 student**, I think you are not interested in the details of the `push_swap` and `checker` programms.
+If you are an **employee and consider this project as part of my resume** - all the details of the project I will explain to you at the meeting.
 
-In other case, you know what to do.
 
+## GIPHY  🐥
 ![](https://media.giphy.com/media/pcJQJibaViuyx8EyQV/giphy.gif)
