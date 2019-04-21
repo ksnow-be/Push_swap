@@ -8,6 +8,8 @@ The goal of this project is to sort stack A using stack B.
 The only difference from the known sorting methods is the presence of **special rules** of the algorithm and the **speed of execution.**
 
 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
 `./lem-in < [map]`
 
 [`push_swap.en.pdf`]
