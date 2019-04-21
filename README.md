@@ -4,6 +4,8 @@ Another school project.
 The main goal of it is make one of two stacks sorted by using the second one.
 
 
+**(macOS is only supported)**
+
 [`push_swap.en.pdf`]
 
 ```
