@@ -8,6 +8,8 @@ The goal of this project is to sort stack A using stack B.
 The only difference from the known sorting methods is the presence of **special rules** of the algorithm and the **speed of execution.**
 
 
+`./lem-in < [map]`
+
 [`push_swap.en.pdf`]
 
 ```
