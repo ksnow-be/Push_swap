@@ -18,7 +18,7 @@ brew install sdl2
 ```
 git clone https://github.com/ksnow-be/Push_swap.git; cd Push_swap; make;
 ```
-## Use
+## Usage
 
 Then, to execute the vizualization of the process run this magic [bash script](start.sh).
 
