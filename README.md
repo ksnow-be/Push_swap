@@ -15,8 +15,9 @@ The only difference from the known sorting methods is the presence of **special 
 **Project wa created on [`MacOs`], so all Makefile's rules will be runned well inly on this OS. 
 If you use any of Linux distro's, you probably will face lot's of link problems. Sorry, eh!**  🇨🇦 
 
+Make sure you've installed SDL.h
 ```
-git clone --recurse-submodules <repository url>
+brew install sdl2
 ```
 
 If you are not a student of 42 , just run "./start.sh 1 100" (from 1 to 100 randoms), where you can handle 
